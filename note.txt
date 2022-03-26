@@ -1,0 +1,5 @@
+A contract can represent a person, an institution, an account,
+
+A storageFactory can be used to deploy each of this entity (contract)
+
+ABI: Application Binary Interface
